@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/root/AndroidStudioProjects/MyApplication3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/home/siva/AndroidStudioProjects/send-and-receive-sms/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/12ebb033fbc7c58f216d3cac013cdb00/res/values-v24/values-v24.xml",
+                    "source": "/home/siva/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/1ae6aa1f212409d9c6bb36d3e5c52147/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/d4d26472063d7a6a89740a93ccfd9569/res/values-v24/values-v24.xml",
+                    "source": "/home/siva/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ed1e656b078f46f4c3757d0677542f10/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

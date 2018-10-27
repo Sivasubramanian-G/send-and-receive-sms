@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/root/AndroidStudioProjects/MyApplication3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my/values-my.xml",
+            "outputFile": "/home/siva/AndroidStudioProjects/send-and-receive-sms/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my/values-my.xml",
             "map": [
                 {
-                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/12ebb033fbc7c58f216d3cac013cdb00/res/values-my/values-my.xml",
+                    "source": "/home/siva/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/1ae6aa1f212409d9c6bb36d3e5c52147/res/values-my/values-my.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
